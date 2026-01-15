@@ -26,19 +26,6 @@ Byte Hoover is a powerful, browser-based data cleaning application that transfor
 
 No installation required! Just open `index.html` in any modern browser.
 
-## 📁 Project Structure
-- byte-hoover/
-- |
-- |----css/
-- |    |
-- |    |--style.css
-- |
-- |----js/
-- |    |
-- |    |--script.js
-- |
-- |----index.html
-
 ## 🔧 Supported Operations
 
 - **Capitalization**: Smart title case with name recognition
