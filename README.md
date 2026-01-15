@@ -27,17 +27,17 @@ Byte Hoover is a powerful, browser-based data cleaning application that transfor
 No installation required! Just open `index.html` in any modern browser.
 
 ## 📁 Project Structure
-- **byte-hoover/
+- byte-hoover/
 - |
-- |__css/
-- |  |
-- |  |__style.css
+- |----css/
+- |    |
+- |    |--style.css
 - |
-- |__js/
-- |  |
-- |  |__script.js
+- |----js/
+- |    |
+- |    |--script.js
 - |
-- |__index.html
+- |----index.html
 
 ## 🔧 Supported Operations
 
