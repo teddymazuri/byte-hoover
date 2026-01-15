@@ -28,15 +28,16 @@ No installation required! Just open `index.html` in any modern browser.
 
 ## 📁 Project Structure
 - **byte-hoover/
-- **|
-- **|__css/
-- **|  |
-- **|  |__style.css
-- **|__js/
-- **|  |
-- **|__|__script.js
-- **|
-- **|__index.html
+- |
+- |__css/
+- |  |
+- |  |__style.css
+- |
+- |__js/
+- |  |
+- |  |__script.js
+- |
+- |__index.html
 
 ## 🔧 Supported Operations
 
