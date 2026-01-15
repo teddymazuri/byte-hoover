@@ -1,4 +1,4 @@
-# Byte Hoover 🌀
+# Byte Hoover
 
 **Professional Data Cleaning Tool for the Web**
 
